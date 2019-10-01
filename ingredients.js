@@ -17,9 +17,3 @@ console.log("\nIngredients Backwards:\n")
 for (var i = ingredients.length - 1; i >= 0; i--) {
   console.log(ingredients[i]);
 }
-console.log("Ingredients:\n")
-var Whilelist = 7;
-while (Whilelist = ingredients.length - 1) {
-  console.log(ingredients[Whilelist])
-  Whilelist--
-}
